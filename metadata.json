@@ -1,0 +1,6 @@
+{
+  "name": "Red de Portales Eclesiales y Multimedios",
+  "description": "Red de 6 portales web eclesiales y multimedios con CMS centralizado, Backend Operating System & 20 Áreas Maestras (Prompt 54), Command Palette, Notification & Approval Center, Gestión Humana 360° (Prompt 53), Responsive Experience OS (Prompt 50), Staff Portal (Prompt 49), Menu Governance (Prompt 48), People 360° (Prompt 47), Arquitectura 13 Capas (Prompt 46), Sindicación RSS 2.0 & OPML, Motor QA, iPaaS 360°, CRM, BPM, GRC y ERP Canónico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
